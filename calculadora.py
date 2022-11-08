@@ -4,7 +4,7 @@ print("""si el pimer numero que ingrese es:
 3-sacara la potencia 
 4-sumara 
 5-sacara la Raiz cuadrada""")
-
+print("-"*25)
 
 promedio = 0
 numero = int(input("Ingrese un numero: "))
